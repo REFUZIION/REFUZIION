@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @REFUZIION
+- 👀 I’m interested in: developing websites and applications, also love gaming.
+- 🌱 I’m currently learning: JavaScript & Vue
+- 📫 Reach me through discord: REFUZIION#0547
