@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @REFUZIION
 - 👀 I’m interested in: developing websites and applications, also love gaming.
-- 🌱 I’m currently learning: Python.
 - 😎 Currently working on: <a target="_blank" href="http://refsploit.refuzion.nl/">REFSPLOiT v5</a>.
-- 📫 Reach me through discord: REFUZIION#0547
+- 📫 Reach me through discord: REFUZIION#1337
